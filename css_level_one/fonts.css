@@ -1,0 +1,20 @@
+h1{
+    font-family: cursive;
+}
+
+body{
+    font-size: 20px;
+}
+
+#second{
+    font-size: 1.5em;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+.p1 {
+  font-family: "Playwrite DE SAS", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
