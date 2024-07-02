@@ -1,0 +1,33 @@
+.art{
+    margin: auto;
+}
+
+#one{
+    background-color: aqua;
+}
+
+#two{
+    background-color: orange;
+}
+
+#three{
+    background-color: skyblue;
+}
+
+#four{
+    background-color: rgb(142, 26, 51);
+}
+
+#five{
+    background-color: green;
+}
+
+td{
+    border: 5px solid white;
+    height: 400px;
+    width: 200px;
+}
+
+h1{
+    text-align: center;
+}
